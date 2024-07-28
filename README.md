@@ -1,3 +1,6 @@
+# Archival
+This repository has been archived in favour of [this](https://github.com/ironlungx/oledUtils)
+
 # OLED Keyboard
 ![image](https://github.com/user-attachments/assets/b24e4b5d-25f7-41ef-b7be-d8860d228fa3)
 
@@ -30,3 +33,4 @@ To use it in your project. Download [this](https://github.com/ironlungx/oledKeyb
 On platformIO you need to put it in the `include` directory
 
 wokwi example [here](https://wokwi.com/projects/404493837770319873)
+archival
